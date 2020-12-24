@@ -1,2 +1,2 @@
 # UNITY
-memos of me trying to learn unity
+notes of me trying to learn unity
