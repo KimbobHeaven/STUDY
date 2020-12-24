@@ -1,2 +1,2 @@
-# UNITY
-notes of me trying to learn unity
+# STUDY
+notes of me trying to learn anything related to programing / modeling / CG
