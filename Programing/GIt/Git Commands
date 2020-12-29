@@ -1,0 +1,68 @@
+$ git init
+  initialize local git repository
+
+$ git add <file>
+  add file(s) to index
+
+$ git status
+  check status of  working tree
+
+$ git commit
+  commit changes in index
+
+$ git push
+  push to remote repository
+
+$ git pull
+  pull latest from remote repository
+
+$ git clone
+  clone repository into a new directory
+
+$ git touch
+  creat a new file
+
+$ git config --global user.name '<name>'
+$ git config --global user.email '<email>'
+  add user's name + email
+
+$ git rm --cached <file>
+  untrack file(s)
+
+$ git add *.py
+  add every file(s) that ends with .py
+
+$ git add .
+  add every file(s)
+
+$ git commit
+  i
+    insert mode
+  esc
+    get out of insert mode
+  :wq
+    commit file(s)
+
+$ git commit -m '<comment>'
+  commit rightaway
+
+$ touch .gitignore
+  add file(s)'s name to .gitignore to not add those file(s)
+
+$ git branch <branch_name>
+  add branch
+
+$ git checkout <branch_name>
+  change to <branch_name>
+
+$ git merge <branch_name>
+  merge <branch_name> to master branch
+
+$ git remote add <git_name> <https.git>
+  add remote repository
+
+$ git push -u <git_name> master
+  push master to <git_name>
+
+$ git clone <https.git>
+  clone <git_name>
