@@ -61,6 +61,9 @@ $ git merge <branch_name>
 $ git remote add <git_name> <https.git>
   add remote repository
 
+$ git remote
+  check all(?) remote gits
+
 $ git push -u <git_name> master
   push master to <git_name>
 
