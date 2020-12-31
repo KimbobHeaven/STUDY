@@ -51,6 +51,7 @@ $ touch .gitignore
 
 $ git branch <branch_name>
   add branch
+  must commit at least once to add new branch
 
 $ git checkout <branch_name>
   change to <branch_name>
