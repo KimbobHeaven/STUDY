@@ -13,7 +13,7 @@ $ git commit
 $ git push
   push to remote repository
 
-$ git pull
+$ git pull <git_name> <branch_name>
   pull latest from remote repository
 
 $ git clone
