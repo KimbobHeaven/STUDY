@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T12:01:10.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="fxHHeNHIfZq93R9fk8o0" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T13:19:10.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="RXp5jIxTvhpb7p1XXaR_" version="14.2.9" type="github">
   <diagram id="tX3UvdbEhSY9bGoHXd9f" name="Page-1">
     <mxGraphModel dx="1704" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -343,23 +343,11 @@
         <mxCell id="SMjvtxCN79PIYDQmCma3-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;+= finalmessage&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;fontStyle=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-380" y="1320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-11" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-8" target="SMjvtxCN79PIYDQmCma3-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-13" value="if no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-8" target="SMjvtxCN79PIYDQmCma3-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-8" value="if name &lt;br style=&quot;font-size: 20px;&quot;&gt;in [name]" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="1000" width="200" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-10" target="SMjvtxCN79PIYDQmCma3-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-10" value="del [name]" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2460" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-12" value="no name.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2627" y="1160" width="160" height="60" as="geometry" />
+          <mxGeometry x="2460" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-17" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-14" target="SMjvtxCN79PIYDQmCma3-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -368,25 +356,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-14" value="if summ&lt;br style=&quot;font-size: 20px;&quot;&gt;in [summ]" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="999" width="180" height="100" as="geometry" />
+          <mxGeometry x="2630" y="999" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-16" target="SMjvtxCN79PIYDQmCma3-37" edge="1">
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="SMjvtxCN79PIYDQmCma3-16" target="mYMfS3QnDWg7ju0dgV0--14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-16" value="del [summ]" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="1159" width="120" height="60" as="geometry" />
+          <mxGeometry x="2660" y="1159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-18" value="no summ.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3010" y="1159" width="160" height="60" as="geometry" />
+          <mxGeometry x="2820" y="1159" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-31" value="done.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1660" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-35" value="done.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2460" y="1300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-37" value="done.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2850" y="1299" width="120" height="60" as="geometry" />
+          <mxGeometry x="2460" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-42" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-39" target="SMjvtxCN79PIYDQmCma3-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -460,10 +445,10 @@
         <mxCell id="SMjvtxCN79PIYDQmCma3-68" value="remove&lt;br style=&quot;font-size: 20px;&quot;&gt;(name / summ)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2400" y="720" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-71" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-69" target="SMjvtxCN79PIYDQmCma3-8" edge="1">
+        <mxCell id="SMjvtxCN79PIYDQmCma3-74" value="if no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-69" target="SMjvtxCN79PIYDQmCma3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-74" value="if no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-69" target="SMjvtxCN79PIYDQmCma3-14" edge="1">
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--13" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="SMjvtxCN79PIYDQmCma3-69" target="SMjvtxCN79PIYDQmCma3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-69" value="if var&lt;br style=&quot;font-size: 20px;&quot;&gt;in [name]" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=20;glass=0;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -601,6 +586,28 @@
         </mxCell>
         <mxCell id="mYMfS3QnDWg7ju0dgV0--7" value="finalsumm.return" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--17" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--14" target="mYMfS3QnDWg7ju0dgV0--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--19" value="if no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--14" target="mYMfS3QnDWg7ju0dgV0--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--14" value="if [summ]&lt;br&gt;empty" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="1278" width="160" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--16" target="mYMfS3QnDWg7ju0dgV0--18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2720" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--16" value="del [name]" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="1481" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--18" value="done.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
