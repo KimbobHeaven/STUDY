@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T10:51:24.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="0R_HpfEjMkeyZraE4IFJ" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T11:57:56.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Hx9uqy6ze0NxEjzqEoI_" version="14.2.9" type="github">
   <diagram id="tX3UvdbEhSY9bGoHXd9f" name="Page-1">
-    <mxGraphModel dx="1779" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,8 +450,8 @@
         <mxCell id="SMjvtxCN79PIYDQmCma3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-64" target="vZP44o0aaJOrGxUDmJDb-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMjvtxCN79PIYDQmCma3-64" value="add&lt;br style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;(name, summ)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="860" width="200" height="60" as="geometry" />
+        <mxCell id="SMjvtxCN79PIYDQmCma3-64" value="add&lt;br style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;(name, summ, [summ].list)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="860" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SMjvtxCN79PIYDQmCma3-85" value="REF" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" source="SMjvtxCN79PIYDQmCma3-66" target="SMjvtxCN79PIYDQmCma3-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
