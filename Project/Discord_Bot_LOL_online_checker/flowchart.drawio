@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T16:00:03.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="jo-IDqS5jmOig2mQXlzm" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T16:54:32.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yOtEaa10yHkBiXAiS09N" version="14.2.9" type="github">
   <diagram id="tX3UvdbEhSY9bGoHXd9f" name="Page-1">
     <mxGraphModel dx="1879" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -623,6 +623,30 @@
         </mxCell>
         <mxCell id="mYMfS3QnDWg7ju0dgV0--24" value="double.out" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3810" y="1340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--37" value="if yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--33" target="mYMfS3QnDWg7ju0dgV0--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--42" value="if no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--33" target="mYMfS3QnDWg7ju0dgV0--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--33" value="s in [summ]" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--39" value="if T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--36" target="mYMfS3QnDWg7ju0dgV0--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--41" value="if F" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;" edge="1" parent="1" source="mYMfS3QnDWg7ju0dgV0--36" target="mYMfS3QnDWg7ju0dgV0--40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--36" value="check TF" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1390" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--38" value="pass" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mYMfS3QnDWg7ju0dgV0--40" value="decline" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
