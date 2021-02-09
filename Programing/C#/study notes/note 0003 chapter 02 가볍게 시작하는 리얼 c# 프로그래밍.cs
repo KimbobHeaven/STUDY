@@ -303,3 +303,71 @@ namespace ex_2_1
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ex_2_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int n = 0; n < 100; n++)
+            {
+                Console.WriteLine("repeat");
+            }
+        }
+    }
+}
+// 반복문사용 for(초깃값; 조건식; 증가 또는 감소식;)
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ex_2_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int k = 1; k <= 9; k++)
+            {
+                for (int n = 1; n <= 9; n++)
+                {
+                    Console.WriteLine(k + " x " + n + " = " + k * n);
+                }
+            }
+        }
+    }
+}
+// 구구단
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ex_2_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Console.WriteLine("True");
+                break;
+            }
+        }
+    }
+}
+// while사용
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
