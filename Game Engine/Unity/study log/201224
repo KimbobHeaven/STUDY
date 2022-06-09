@@ -1,5 +1,0 @@
-installed unity
-basic controlls = maya, T = transform, ZX = change pivot, Shi qweasd = fly, Ctr Shi N = new obj, Alt Shi N = new daughter obj
-isometric/perspecrive : scene gizmo
-
-scripts can't work alone. must be attached to an object by draging.
